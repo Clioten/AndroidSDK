@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:clioten1.0:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/gradle-4.8.1/bin/caches/transforms-1/files-1.1/clioten1.0.aar/cf2e8f3380de22890025a109e05b981d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/gradle-4.8.1/bin/caches/transforms-1/files-1.1/clioten1.0.aar/cf2e8f3380de22890025a109e05b981d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
