@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:clioten-debug:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/gradle-4.8.1/bin/caches/transforms-1/files-1.1/clioten-debug.aar/f4824d8bc46713c43633424fbf9b9719/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/gradle-4.8.1/bin/caches/transforms-1/files-1.1/clioten-debug.aar/f4824d8bc46713c43633424fbf9b9719/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
