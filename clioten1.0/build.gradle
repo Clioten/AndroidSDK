@@ -1,2 +1,4 @@
 configurations.maybeCreate("default")
 artifacts.add("default", file('clioten1.0.aar'))
+dependencies {
+}
